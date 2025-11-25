@@ -1,5 +1,5 @@
 # Coded by @deadconvicess
-#github repo  - 
+# Github Repo  - https://github.com/deadconvicess/DLL-Injector
 
 import sys
 import os
@@ -282,3 +282,4 @@ if __name__ == '__main__':
     gui.show()
 
     sys.exit(app.exec_())
+
