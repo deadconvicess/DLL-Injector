@@ -1,4 +1,5 @@
-# Coded by @kaz
+# Coded by @deadconvicess
+#github repo  - 
 
 import sys
 import os
@@ -279,4 +280,5 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     gui = InjectorGUI()
     gui.show()
+
     sys.exit(app.exec_())
