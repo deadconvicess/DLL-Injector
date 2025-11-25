@@ -1,3 +1,3 @@
-# Simple Injector
+# DLL Injector
 
-Simple dll injector is very easy too use and supports aload of games:)
+Simple dll injector is very easy too use.
